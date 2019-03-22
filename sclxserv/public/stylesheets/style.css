@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margins:auto
+}
+
+a {
+  color: #00B7FF;
+}
+
+#left{
+    float:left;
+    width:20%;
+    border: 1px solid black;
+    dislpay:block;
+}
+
+#right{
+  float:right;
+  width:20%;
+  border: 1px solid black;
+  dislpay:block;
+}
+#graph{
+  float:left;
+  width:55%;
+  height:30%;
+  margins:auto
+}
